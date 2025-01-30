@@ -27,7 +27,7 @@ To install and run the project locally, download/clone the repo and run the foll
 npm install
 ```
 
-### You need to provide an unsplsh api key which can be gotten from the unsplash api documentation
+### You need to provide an unsplash api key which can be gotten from the unsplash api documentation
 
 ### Compile and Hot-Reload for Development
 
